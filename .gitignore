@@ -1,0 +1,24 @@
+# Build folders
+build/
+Debug/
+Release/
+x64/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# Visual Studio
+.vs/
+*.vcxproj*
+*.sln
+
+# Executables
+*.exe
+*.pdb
+*.obj
+*.lib
+
+# OS
+.DS_Store
+Thumbs.db
