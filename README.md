@@ -1,4 +1,6 @@
 #SchwarzschildGeodesics
+
+
 Schwarzschild Geodesics Simulation (C++ / SFML)
 
 A real-time 2D visualization of light-ray (null geodesic) trajectories in the Schwarzschild spacetime around a black hole.
